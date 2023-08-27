@@ -1,0 +1,11 @@
+{
+    "email": {
+        "name": "IS238 2022 Group 2",
+        "host": "smtp.gmail.com",
+        "delay": 5
+    },
+    "imap": {
+        "mail": "imap.gmail.com",
+        "port": 993
+    }
+}
